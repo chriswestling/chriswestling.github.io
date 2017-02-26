@@ -1,0 +1,16 @@
+.profilepic {
+	max-width:100%;
+	padding-bottom:10px;
+}
+.card {
+	margin-top:5px;
+	margin-bottom:5px
+}
+.icon-padding {
+	padding-left:15px;
+	padding-right:15px;
+}
+.social-icon:hover {
+	text-decoration: none;
+	color: hotpink;
+}
