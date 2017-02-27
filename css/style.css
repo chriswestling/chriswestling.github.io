@@ -14,3 +14,14 @@
 	text-decoration: none;
 	color: hotpink;
 }
+body {
+	background-image: url("../img/solarbg.jpg");
+	background-size: cover;
+}
+
+.fake-card{
+	border:1px solid grey;
+	background-color: white;
+	border-radius: 5px;
+	padding: 20px;
+}
